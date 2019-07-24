@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"github.com/mariuspass/recws"
+	"github.com/Ali-IoT-Lab/recws"
 	"log"
 	"time"
 )
